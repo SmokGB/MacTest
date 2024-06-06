@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: MacTest",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/MacTest.csproj",
+            "launchConfigurationId": "TargetFramework=;MacTest"
+        }
+    ]
+}
